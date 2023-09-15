@@ -1,0 +1,9 @@
+C:\Users\huy.tran\OneDrive - TrueCommerce\Hutech\LAB-LapTrinhTrenMoiTruongWindows\Lab02\Lab02-04\bin\Debug\Lab02-04.exe.config
+C:\Users\huy.tran\OneDrive - TrueCommerce\Hutech\LAB-LapTrinhTrenMoiTruongWindows\Lab02\Lab02-04\bin\Debug\Lab02-04.exe
+C:\Users\huy.tran\OneDrive - TrueCommerce\Hutech\LAB-LapTrinhTrenMoiTruongWindows\Lab02\Lab02-04\bin\Debug\Lab02-04.pdb
+C:\Users\huy.tran\OneDrive - TrueCommerce\Hutech\LAB-LapTrinhTrenMoiTruongWindows\Lab02\Lab02-04\obj\Debug\Lab02_04.Form1.resources
+C:\Users\huy.tran\OneDrive - TrueCommerce\Hutech\LAB-LapTrinhTrenMoiTruongWindows\Lab02\Lab02-04\obj\Debug\Lab02_04.Properties.Resources.resources
+C:\Users\huy.tran\OneDrive - TrueCommerce\Hutech\LAB-LapTrinhTrenMoiTruongWindows\Lab02\Lab02-04\obj\Debug\Lab02-04.csproj.GenerateResource.cache
+C:\Users\huy.tran\OneDrive - TrueCommerce\Hutech\LAB-LapTrinhTrenMoiTruongWindows\Lab02\Lab02-04\obj\Debug\Lab02-04.csproj.CoreCompileInputs.cache
+C:\Users\huy.tran\OneDrive - TrueCommerce\Hutech\LAB-LapTrinhTrenMoiTruongWindows\Lab02\Lab02-04\obj\Debug\Lab02-04.exe
+C:\Users\huy.tran\OneDrive - TrueCommerce\Hutech\LAB-LapTrinhTrenMoiTruongWindows\Lab02\Lab02-04\obj\Debug\Lab02-04.pdb
