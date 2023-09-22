@@ -17,3 +17,14 @@ C:\Users\huy.tran\Desktop\LAB-LapTrinhTrenMoiTruongWindows\Lab03\Lab03-02\obj\De
 C:\Users\huy.tran\Desktop\LAB-LapTrinhTrenMoiTruongWindows\Lab03\Lab03-02\obj\Debug\Lab03-02.csproj.CoreCompileInputs.cache
 C:\Users\huy.tran\Desktop\LAB-LapTrinhTrenMoiTruongWindows\Lab03\Lab03-02\obj\Debug\Lab03-02.exe
 C:\Users\huy.tran\Desktop\LAB-LapTrinhTrenMoiTruongWindows\Lab03\Lab03-02\obj\Debug\Lab03-02.pdb
+C:\Users\HuyBin\Desktop\LAB-LapTrinhTrenMoiTruongWindows\Lab03\Lab03-02\bin\Debug\Lab03-02.exe.config
+C:\Users\HuyBin\Desktop\LAB-LapTrinhTrenMoiTruongWindows\Lab03\Lab03-02\bin\Debug\Lab03-02.exe
+C:\Users\HuyBin\Desktop\LAB-LapTrinhTrenMoiTruongWindows\Lab03\Lab03-02\bin\Debug\Lab03-02.pdb
+C:\Users\HuyBin\Desktop\LAB-LapTrinhTrenMoiTruongWindows\Lab03\Lab03-02\obj\Debug\Lab03-02.csproj.AssemblyReference.cache
+C:\Users\HuyBin\Desktop\LAB-LapTrinhTrenMoiTruongWindows\Lab03\Lab03-02\obj\Debug\Lab03-02.csproj.SuggestedBindingRedirects.cache
+C:\Users\HuyBin\Desktop\LAB-LapTrinhTrenMoiTruongWindows\Lab03\Lab03-02\obj\Debug\Lab03_02.Form1.resources
+C:\Users\HuyBin\Desktop\LAB-LapTrinhTrenMoiTruongWindows\Lab03\Lab03-02\obj\Debug\Lab03_02.Properties.Resources.resources
+C:\Users\HuyBin\Desktop\LAB-LapTrinhTrenMoiTruongWindows\Lab03\Lab03-02\obj\Debug\Lab03-02.csproj.GenerateResource.cache
+C:\Users\HuyBin\Desktop\LAB-LapTrinhTrenMoiTruongWindows\Lab03\Lab03-02\obj\Debug\Lab03-02.csproj.CoreCompileInputs.cache
+C:\Users\HuyBin\Desktop\LAB-LapTrinhTrenMoiTruongWindows\Lab03\Lab03-02\obj\Debug\Lab03-02.exe
+C:\Users\HuyBin\Desktop\LAB-LapTrinhTrenMoiTruongWindows\Lab03\Lab03-02\obj\Debug\Lab03-02.pdb

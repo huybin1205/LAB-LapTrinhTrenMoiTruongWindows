@@ -1,0 +1,12 @@
+C:\Users\HuyBin\Desktop\LAB-LapTrinhTrenMoiTruongWindows\Lab03\Lab03\Lab03-03\bin\Debug\Lab03-03.exe.config
+C:\Users\HuyBin\Desktop\LAB-LapTrinhTrenMoiTruongWindows\Lab03\Lab03\Lab03-03\bin\Debug\Lab03-03.exe
+C:\Users\HuyBin\Desktop\LAB-LapTrinhTrenMoiTruongWindows\Lab03\Lab03\Lab03-03\bin\Debug\Lab03-03.pdb
+C:\Users\HuyBin\Desktop\LAB-LapTrinhTrenMoiTruongWindows\Lab03\Lab03\Lab03-03\obj\Debug\Lab03-03.csproj.AssemblyReference.cache
+C:\Users\HuyBin\Desktop\LAB-LapTrinhTrenMoiTruongWindows\Lab03\Lab03\Lab03-03\obj\Debug\Lab03-03.csproj.SuggestedBindingRedirects.cache
+C:\Users\HuyBin\Desktop\LAB-LapTrinhTrenMoiTruongWindows\Lab03\Lab03\Lab03-03\obj\Debug\Lab03_03.frmAddStudent.resources
+C:\Users\HuyBin\Desktop\LAB-LapTrinhTrenMoiTruongWindows\Lab03\Lab03\Lab03-03\obj\Debug\Lab03_03.Form1.resources
+C:\Users\HuyBin\Desktop\LAB-LapTrinhTrenMoiTruongWindows\Lab03\Lab03\Lab03-03\obj\Debug\Lab03_03.Properties.Resources.resources
+C:\Users\HuyBin\Desktop\LAB-LapTrinhTrenMoiTruongWindows\Lab03\Lab03\Lab03-03\obj\Debug\Lab03-03.csproj.GenerateResource.cache
+C:\Users\HuyBin\Desktop\LAB-LapTrinhTrenMoiTruongWindows\Lab03\Lab03\Lab03-03\obj\Debug\Lab03-03.csproj.CoreCompileInputs.cache
+C:\Users\HuyBin\Desktop\LAB-LapTrinhTrenMoiTruongWindows\Lab03\Lab03\Lab03-03\obj\Debug\Lab03-03.exe
+C:\Users\HuyBin\Desktop\LAB-LapTrinhTrenMoiTruongWindows\Lab03\Lab03\Lab03-03\obj\Debug\Lab03-03.pdb
