@@ -1,0 +1,15 @@
+C:\Users\huy.tran\Desktop\LAB-LapTrinhTrenMoiTruongWindows\Lab03-01\bin\Debug\Lab03-01.exe.config
+C:\Users\huy.tran\Desktop\LAB-LapTrinhTrenMoiTruongWindows\Lab03-01\bin\Debug\Lab03-01.exe
+C:\Users\huy.tran\Desktop\LAB-LapTrinhTrenMoiTruongWindows\Lab03-01\bin\Debug\Lab03-01.pdb
+C:\Users\huy.tran\Desktop\LAB-LapTrinhTrenMoiTruongWindows\Lab03-01\obj\Debug\Lab03-01.csproj.AssemblyReference.cache
+C:\Users\huy.tran\Desktop\LAB-LapTrinhTrenMoiTruongWindows\Lab03-01\obj\Debug\Lab03_01.Form1.resources
+C:\Users\huy.tran\Desktop\LAB-LapTrinhTrenMoiTruongWindows\Lab03-01\obj\Debug\Lab03_01.Properties.Resources.resources
+C:\Users\huy.tran\Desktop\LAB-LapTrinhTrenMoiTruongWindows\Lab03-01\obj\Debug\Lab03-01.csproj.GenerateResource.cache
+C:\Users\huy.tran\Desktop\LAB-LapTrinhTrenMoiTruongWindows\Lab03-01\obj\Debug\Lab03-01.csproj.CoreCompileInputs.cache
+C:\Users\huy.tran\Desktop\LAB-LapTrinhTrenMoiTruongWindows\Lab03-01\obj\Debug\Lab03-01.exe
+C:\Users\huy.tran\Desktop\LAB-LapTrinhTrenMoiTruongWindows\Lab03-01\obj\Debug\Lab03-01.pdb
+C:\Users\huy.tran\Desktop\LAB-LapTrinhTrenMoiTruongWindows\Lab03-01\bin\Debug\Interop.WMPLib.dll
+C:\Users\huy.tran\Desktop\LAB-LapTrinhTrenMoiTruongWindows\Lab03-01\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\huy.tran\Desktop\LAB-LapTrinhTrenMoiTruongWindows\Lab03-01\obj\Debug\Interop.WMPLib.dll
+C:\Users\huy.tran\Desktop\LAB-LapTrinhTrenMoiTruongWindows\Lab03-01\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\huy.tran\Desktop\LAB-LapTrinhTrenMoiTruongWindows\Lab03-01\obj\Debug\Lab03-01.csproj.ResolveComReference.cache
