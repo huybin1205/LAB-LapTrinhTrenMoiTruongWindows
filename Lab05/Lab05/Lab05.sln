@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab05.GUI", "Lab05.GUI.csproj", "{F6872AA2-D80E-4918-83B9-4079BFF48F70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab05.BUS", "..\Lab05.BUS\Lab05.BUS.csproj", "{D448397D-F0BE-4BF3-B579-18C40770915A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab05.DAL", "..\Lab05.DAL\Lab05.DAL.csproj", "{6B132E7D-A40E-4BB3-AAB3-64689C2DF216}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6872AA2-D80E-4918-83B9-4079BFF48F70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6872AA2-D80E-4918-83B9-4079BFF48F70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6872AA2-D80E-4918-83B9-4079BFF48F70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6872AA2-D80E-4918-83B9-4079BFF48F70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D448397D-F0BE-4BF3-B579-18C40770915A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D448397D-F0BE-4BF3-B579-18C40770915A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D448397D-F0BE-4BF3-B579-18C40770915A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D448397D-F0BE-4BF3-B579-18C40770915A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B132E7D-A40E-4BB3-AAB3-64689C2DF216}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B132E7D-A40E-4BB3-AAB3-64689C2DF216}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B132E7D-A40E-4BB3-AAB3-64689C2DF216}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B132E7D-A40E-4BB3-AAB3-64689C2DF216}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5036FFD-ACEB-4289-B02D-557C7AB60613}
+	EndGlobalSection
+EndGlobal
